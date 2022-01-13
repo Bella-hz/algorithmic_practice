@@ -26,6 +26,7 @@
 # 
 # Related Topics 数组
 #leetcode submit region begin(Prohibit modification and deletion)
+from typing import List
 
 
 class Solution1:
